@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tuxbox"	name="TuxBox" version="0.0.6" provider-name="Lars Nordmeyer">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">TuxBox for XBMC</summary>
+		<description lang="en">A frontend for TuxBox based devices eg. DBOX2, Edision Pingulux, Coolstream, Amiko Alien etc.</description>
+	</extension>
+</addon>

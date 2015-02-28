@@ -1,0 +1,48 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2014-05-12 10:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#1"
+msgid "Television"
+msgstr ""
+
+msgctxt "#2"
+msgid "Radio"
+msgstr ""
+
+msgctxt "#3"
+msgid "Movies"
+msgstr ""
+
+#empty strings from id 4 to 29999
+
+msgctxt "#30000"
+msgid "TuxBox IP address"
+msgstr ""
+
+msgctxt "#30001"
+msgid "TuxBox username"
+msgstr ""
+
+msgctxt "#30002"
+msgid "TuxBox password"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Show EPG"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Smart EPG"
+msgstr ""

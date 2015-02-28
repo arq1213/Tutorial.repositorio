@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label=”General”>
+	 <setting id="ipaddress" type="text" label="30000" default="192.168.0.165"/>
+	 <setting id="username" type="text" label="30001" default="root"/>
+	 <setting id="password" type="text" label="30002" default="root"/>
+	 <setting id="epg" type="bool" label="30003" default="true"/>
+	 <setting id="smartepg" type="bool" label="30004" default="true"/>
+	</category>
+</settings>
